@@ -9,4 +9,4 @@ Much of the R code is sourced from this project as well. (https://github.com/lrh
 
 The element I have changed is using the default Stanford GloVe word embeddings directly (pretrained; generic) rather than first finetuning the word vectors on the corpus. (https://github.com/stanfordnlp/GloVe).
 
-Please feel free to use, with credit.
+Please feel free to use, with credit. (C) "Glove Emotion Lexicons". Catherine Moez, March 11, 2023. https://github.com/catmoez/GloveLexicons/
